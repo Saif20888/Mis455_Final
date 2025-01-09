@@ -6,9 +6,9 @@ body {
   
   header, footer {
     background-color: #333;
-    color: white;
+    color: rgb(247, 218, 218);
     text-align: center;
-    padding: 1em;
+    padding: 0.3em;
   }
 
 
@@ -37,7 +37,7 @@ body {
   }
 
   .result-card {
-    border: 1px solid #ccc;
+    border: 1px solid #b82525;
     padding: 1em;
     width: 300px;
     text-align: center;
